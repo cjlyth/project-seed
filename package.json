@@ -1,0 +1,17 @@
+{
+  "name": "dev-jade",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node dev-server.js"
+  },
+  "devDependencies": {
+    "express": "3.3.4",
+    "jade": "*",
+    "less-middleware": "*",
+    "connect-livereload": "~0.2.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.1",
+    "grunt-express-server": "~0.4.2"
+  }
+}
