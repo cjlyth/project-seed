@@ -1,0 +1,29 @@
+{
+  "name": "project-seed",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cjlyth/project-seed.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/cjlyth/project-seed/issues"
+  },
+  "devDependencies": {
+    "matchdep": "~0.1.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-less": "~0.6.4",
+    "grunt-contrib-jade": "~0.8.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.1",
+    "connect-livereload": "~0.2.0"
+  }
+}
